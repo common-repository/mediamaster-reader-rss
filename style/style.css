@@ -1,0 +1,45 @@
+
+#divRss {
+    width:100%;
+    padding: 0px 3px 3px 5px;
+	background-color:#FFF;
+	border:1px solid #D3CAD7;
+	text-align: justify;
+	text-justify: newspaper;
+}
+
+#divRss img {
+	width:100%;
+	height:auto;
+}
+.tags {
+	font-size:12px;
+	color:#AAA;
+	padding:0 5px 0 5px;
+}
+.Titolo{
+ font-size:15pt;
+ font-weight:bold;
+ margin:5px 0px 0px 0px;
+ padding-top:3px;
+ padding-left:5px;
+}
+.Titolo a{ color:#4EBAFF; text-decoration:none }
+.Titolo a:hover{ text-decoration:underline }
+
+.Contenuti{
+ padding:1px 3px 3px 3px;
+ border-bottom:1px solid #D3CAD7;
+ color:#3E3E3E;
+}
+.Data{
+font-size:11px;
+color:#AAA;
+padding-left:5px
+}
+.autorepost {
+	padding-left:5px;
+	font-size:11pt;
+}
+.author_plugin{font-size:5pt; padding-top:12px}
+
